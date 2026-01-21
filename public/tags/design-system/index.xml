@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design System on Minimal Black Theme</title>
+    <link>http://localhost:1313/tags/design-system/</link>
+    <description>Recent content in Design System on Minimal Black Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/design-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide complet : Documenter un Design System avec Hugo</title>
+      <link>http://localhost:1313/blog/theme-guide/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/theme-guide/</guid>
+      <description>&lt;p&gt;Bienvenue dans ce guide pratique ! Dans le cadre de ma veille sur les &lt;strong&gt;Design Systems&lt;/strong&gt;, j&amp;rsquo;ai exploré comment documenter nos composants d&amp;rsquo;interface de manière structurée et esthétique.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  &lt;a href=&#34;#introduction&#34; class=&#34;md-heading-anchor&#34;&gt;&#xA;    Introduction&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Un bon Design System ne vaut rien sans une documentation claire. [cite_start]En tant que futur ingénieur des médias[cite: 52], j&amp;rsquo;utilise ce thème Hugo pour allier performance technique et clarté visuelle.&lt;/p&gt;&#xA;&lt;h2 id=&#34;typographie--hiérarchie-visuelle&#34;&gt;&#xA;  &lt;a href=&#34;#typographie--hi%c3%a9rarchie-visuelle&#34; class=&#34;md-heading-anchor&#34;&gt;&#xA;    Typographie &amp;amp; Hiérarchie Visuelle&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;UI Design repose sur une hiérarchie claire. Voici les niveaux de titres supportés :&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

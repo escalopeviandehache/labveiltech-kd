@@ -40,9 +40,6 @@ theme = "minimal-black"
     #   type = "image/png"
     #   purpose = "any maskable"
 
-  # Project and blog intro text
-  projectsIntro = "Selected projects to display list." # Can be empty
-  blogIntro = "" # Can be empty
 
   #Theme Configuration
   [params.theme]
@@ -52,13 +49,11 @@ theme = "minimal-black"
   [params.home]
     sections = ["hero", "now", "tech-marquee", "projects", "posts"]
     showNowSection = true
-    showFeaturedProjects = true
+    showFeaturedProjects = false
     showLatestPosts = true
     featuredProjectsLimit = 3
     latestPostsLimit = 3
-    projectsTitle = "Selected Work"
-    projectsSubtitle = ""
-    blogTitle = "Latest Writing"
+    blogTitle = "Derniers articles"
     blogSubtitle = ""
     techMarqueeLabel = "Experienced In"
 
@@ -154,7 +149,7 @@ theme = "minimal-black"
     badge = "Ingénieur des médias"
     title = "Salut, je suis Kevin !"
     role = "Étudiant en ingénierie des médias"
-    summary = "You can write your summary to be displayed here."
+    # summary = "You can write your summary to be displayed here."
     # avatar = "images/avatar.jpg"  # Optional: 400x400px recommended
     location = "Préverenges, Suisse"
     # focus = "Currently focused on Hugo themes & developer experience."
@@ -170,11 +165,7 @@ theme = "minimal-black"
     ]
 
     [params.hero.primary]
-      label = "View Projects"
-      href = "/projects/"
-
-    [params.hero.secondary]
-      label = "Read the Blog"
+      label = "Voir mon blog"
       href = "/blog/"
 
   # Icon Libraries
@@ -193,6 +184,11 @@ theme = "minimal-black"
     url = "https://www.linkedin.com/in/kdossantos17"
     icon = "fa-brands fa-linkedin-in"
 
+  [[params.social]]
+    label = "Portfolio"
+    icon = "fa-solid fa-globe"
+    url = "https://www.kdossantos.ch"
+    
   [[params.social]]
     label = "Email"
     url = "mailto:kevin.doregodossantos@heig-vd.ch"
@@ -242,15 +238,6 @@ theme = "minimal-black"
     identifier = "about-alternative"
     [menu.main.params]
       icon = "fa-solid fa-user"
-
-  [[menu.main]]
-    name = "Projets"
-    pageRef = "projects"
-    url = "/projects/"
-    weight = 3
-    identifier = "projects"
-    [menu.main.params]
-      icon = "fa-regular fa-folder-open"
 
   [[menu.main]]
     name = "Blog"

@@ -3,24 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/theme-guide/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/systeme-ecoute-article/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/documentation/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/m%C3%A9thodologie/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/guide/</loc>
+    <loc>http://localhost:1313/tags/outils/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/productivit%C3%A9/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rss/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/veille-technologique/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/accessibilit%C3%A9/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/carri%C3%A8re/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design-organique/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%C3%A9motion/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2-article/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/futur/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ia/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/llm-article/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/llm/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/management/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tendances/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/1-article/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ui/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ux/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ux-research/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/3-article/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hugo/</loc>
@@ -32,13 +92,7 @@
     <loc>http://localhost:1313/tags/open-source/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/theme/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/web/</loc>
