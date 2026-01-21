@@ -6,15 +6,16 @@
         <div class="error-code">404</div>
 
         <!-- Error Message -->
-        <h1 class="error-title">Page Not Found</h1>
+        <h1 class="error-title">Page Non Trouvée</h1>
+
         <p class="error-description">
-          The page you're looking for doesn't exist or has been moved.
+            La page que vous recherchez n'existe pas ou a été déplacée.
         </p>
 
         <!-- Search Suggestion -->
         <div class="error-search">
           <p class="error-hint">
-            Try searching for what you need, or return to the homepage.
+            Essayez de rechercher ce que vous cherchez, ou retournez à la page d'accueil.
           </p>
           <div class="error-actions">
             <button
@@ -23,25 +24,25 @@
               aria-label="Search site"
             >
               <i class="fa-solid fa-magnifying-glass"></i>
-              <span>Search Site</span>
+                <span>Rechercher le site</span>
             </button>
             <a href="/" class="btn-ghost">
               <i class="fa-solid fa-house"></i>
-              <span>Go Home</span>
+                <span>Retour à l'accueil</span>
             </a>
           </div>
         </div>
 
         <!-- Helpful Links -->
         <div class="error-links">
-          <h2 class="error-links-title">You might be interested in:</h2>
+            <h2 class="error-links-title">Cela pourrait vous intéresser :</h2>
           <div class="error-links-grid">
             {{ with .Site.GetPage "/blog" }}
               <a href="{{ .Permalink }}" class="error-link-card">
                 <i class="fa-regular fa-note-sticky"></i>
                 <div>
                   <strong>Blog</strong>
-                  <span>Read latest articles</span>
+                    <span>Lire les derniers articles</span>
                 </div>
               </a>
             {{ end }}
@@ -50,8 +51,8 @@
               <a href="{{ .Permalink }}" class="error-link-card">
                 <i class="fa-regular fa-folder-open"></i>
                 <div>
-                  <strong>Projects</strong>
-                  <span>Explore my work</span>
+                  <strong>Projets</strong>
+                  <span>Découvrez mon travail</span>
                 </div>
               </a>
             {{ end }}
@@ -60,8 +61,8 @@
               <a href="{{ .Permalink }}" class="error-link-card">
                 <i class="fa-regular fa-user"></i>
                 <div>
-                  <strong>About</strong>
-                  <span>Learn more about me</span>
+                  <strong>À propos</strong>
+                  <span>En savoir plus sur moi</span>
                 </div>
               </a>
             {{ end }}
@@ -73,7 +74,7 @@
         {{ $recentPages = first 3 $recentPages }}
         {{ if $recentPages }}
           <div class="error-recent">
-            <h2 class="error-recent-title">Recent Content</h2>
+            <h2 class="error-recent-title">Contenu Récent</h2>
             <ul class="error-recent-list">
               {{ range $recentPages }}
                 <li>

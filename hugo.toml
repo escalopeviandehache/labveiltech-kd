@@ -44,7 +44,7 @@ theme = "minimal-black"
   projectsIntro = "Selected projects to display list." # Can be empty
   blogIntro = "" # Can be empty
 
-  # Theme Configuration
+  #Theme Configuration
   [params.theme]
     defaultTheme = "dark"  # Options: "light", "dark", "system"
 

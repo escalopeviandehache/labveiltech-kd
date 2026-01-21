@@ -22,6 +22,38 @@ Je suis fier d'avoir obtenu plusieurs reconnaissances majeures pour mon travail 
 - **Prix du public & 2ème place du jury** — Hackathon de la RTS (2025).
 - **Prix d'excellence d'informatique** — Gymnase de Morges.
 
+## Rapport de Veille
+
+### Mon Domaine de Veille
+Mon travail de veille porte sur la **Conception d’expériences et d’interfaces utilisateur (UX/UI)**. Ce choix est motivé par la volonté de créer des environnements numériques qui sont non seulement fonctionnels, mais aussi esthétiques et émotionnellement engageants.
+
+### Le lien avec le domaine : mon ikigai
+
+<div style="margin-top: 10px;">
+    <a href="/images/Ikigai-kd.png" target="_blank" style="font-size: 0.9em; text-decoration: underline; color: black; background-color: #E6B3FF; padding: 2px 4px; border-radius: 3px;">
+        <i class="fas fa-external-link-alt"></i> Ouvrir mon ikigai dans un nouvel onglet
+    </a>
+</div>
+
+La deuxième option est recommandée avec Hugo pour un meilleur rendu et plus de flexibilité.
+Le design UX/UI est au cœur de mon **Ikigai**. Il représente l'équilibre parfait entre :
+* **Ce que j'aime** : Le design, l'esthétisme et le partage de connaissances.
+* **Ce en quoi je suis doué** : La créativité, la vivacité d'esprit et la gestion de projet.
+* **Ce dont le monde a besoin** : Des solutions numériques plus humaines et accessibles.
+* **Ce pour quoi je suis payé** : La conception d'interfaces et les stratégies de communication digitale.
+
+
+
+### Taxonomies de veille
+Pour structurer mes recherches, j'ai défini cinq axes (taxonomies) majeurs :
+1. **UX Research** : Étude des besoins et comportements humains.
+2. **UI Design** : Maîtrise de la hiérarchie visuelle et de la typographie.
+3. **Design System** : Standardisation des composants pour la cohérence produit.
+4. **Brand Experience** : Alignement entre l'identité de marque et l'interaction.
+5. **LLM & IA** : Exploration de l'usage des intelligences artificielles pour optimiser le workflow créatif.
+
+### Choix du SSG (Static Site Generator)
+J'ai choisi d'utiliser **Hugo** comme générateur de site statique pour ce projet. Ce choix se justifie par sa rapidité d'exécution, sa robustesse technique et sa facilité d'intégration avec **GitHub Actions** pour un déploiement continu automatisé. Cette approche technique garantit une plateforme performante, sécurisée et facile à maintenir pour ma veille technologique.
 
 ---
 
