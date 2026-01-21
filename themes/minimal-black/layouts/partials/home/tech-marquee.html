@@ -1,0 +1,46 @@
+{{- $home := .Site.Params.home -}}
+{{- $hero := .Site.Params.hero -}}
+{{- $variant := $home.techVariant | default "wide" -}}
+
+{{/* Créer une liste unique avec TOUS les outils */}}
+{{- $allTech := slice -}}
+{{ range $home.tech }}
+  {{- $allTech = $allTech | append . -}}
+{{ end }}
+{{ range $home.techReverse }}
+  {{- $allTech = $allTech | append . -}}
+{{ end }}
+
+{{ if $allTech }}
+  <div class="space-y-5 animate-fade-up">
+    <div class="space-y-2">
+      <h3 class="heading-section text-base">
+        {{ default "Mes outils" $hero.techMarqueeLabel }}
+      </h3>
+
+      <div class="tech-strip {{ if eq $variant "compact" }}tech-strip--compact{{ else }}tech-strip--wide{{ end }}">
+        <!-- UNE SEULE ligne DÉFILANTE infinie -->
+        <div class="tech-strip-track tech-strip-track--single-line">
+          <!-- 1er passage (visible) -->
+          {{ range $allTech }}
+            <div class="tech-strip-item">
+              {{ with .icon }}
+                <i class="{{ . }} tech-icon"></i>
+              {{ end }}
+              <span class="font-medium">{{ .label }}</span>
+            </div>
+          {{ end }}
+          <!-- 2e passage (invisible, pour animation infinie) -->
+          {{ range $allTech }}
+            <div class="tech-strip-item" aria-hidden="true">
+              {{ with .icon }}
+                <i class="{{ . }} tech-icon"></i>
+              {{ end }}
+              <span class="font-medium">{{ .label }}</span>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}
