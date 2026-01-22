@@ -1,48 +1,65 @@
-+++
-title = "Dans les coulisses de ma veille : Mon système d'écoute"
-date = "2026-01-21"
-author = "Kevin Dos Santos"
-tags = ["Méthodologie", "Outils", "RSS", "Productivité"]
-categories = ["Veille Technologique"]
-description = "Explication technique du système mis en place pour capturer, filtrer et traiter l'information technologique en UX/UI."
-draft = false
-+++
-
-Pour répondre aux exigences de mon cours à la HEIG-VD, j'ai mis en place un écosystème numérique me permettant de surveiller les évolutions de l'UX/UI Design sans être submergé par le "bruit" numérique. Voici comment j'ai structuré mon système d'écoute.
-
-## 1. La stratégie de capture (Sources)
-
-Ma veille repose sur une sélection rigoureuse de sources diversifiées pour couvrir mes 5 taxonomies :
-
-* **Blogs d'Agences Spécialisées** : Suivi de *Ramotion*, *Amiltone* et *Silkwires* pour les études de cas concrètes.
-* **Plateformes de Design** : *Figma Blog* et *Medium (UX Collective)* pour les aspects techniques et les Design Systems.
-* **Newsletters** : Inscription à *UX Design Weekly* pour recevoir une synthèse hebdomadaire des meilleures ressources mondiales.
-* **Réseaux Sociaux Professionnels** : LinkedIn pour suivre des leaders d'opinion et découvrir les tendances de recrutement.
-
-## 2. Les outils de gestion (Le "Pipe")
-
-Pour centraliser ces flux, j'utilise un workflow automatisé :
-
-* **Inoreader (Agrégateur RSS)** : C'est mon centre de commandement. Tous mes flux RSS y sont regroupés par dossiers thématiques (UX, UI, IA).
-* **Save to Notion** : Lorsqu'un article est jugé pertinent, je l'enregistre dans une base de données Notion avec des tags correspondant à mes taxonomies.
-* **Zotero** : Pour la gestion bibliographique et l'archivage des rapports plus denses ou académiques.
-
-
-
-## 3. Méthodologie de traitement
-
-Ma veille n'est pas qu'une simple lecture, c'est un processus actif :
-1.  **Scan quotidien** : 15 minutes chaque matin sur Inoreader pour repérer les titres majeurs.
-2.  **Lecture approfondie** : Sélection de 2 à 3 articles par semaine pour une analyse détaillée.
-3.  **Synthèse** : Rédaction des résumés que vous retrouvez sur ce blog, en mettant l'accent sur l'utilité pratique pour mes futurs projets.
-
-## 4. L'IA dans mon système d'écoute
-
-J'utilise des **LLM (comme Gemini ou ChatGPT)** pour m'aider à :
-* Résumer des articles longs en anglais (gain de temps considérable).
-* Générer des structures d'articles de blog à partir de mes notes.
-* Expliquer des concepts techniques complexes rencontrés lors de mes lectures.
-
+---
+title: "Mon système d'écoute veille UX/UI : comment je tracke les tendances 2025-2026"
+date: "2026-01-22"
+tags: ["UX", "UI", "veille", "méthodologie", "IA", "workflow", "formation"]
 ---
 
-**Utilité du système** : Cette organisation me permet de transformer une masse d'informations brutes en connaissances actionnables pour mon parcours en Ingénierie des Médias.
+
+## Mon process simple (5 étapes)
+
+## 1. Recherche mots-clés  
+J'effectue plusieurs recherches avec des mots-clés de mon domaine **Designer UX/UI** :  
+`tendances UX/UI 2026`, `UX/UI`, `Zero UI`, `accessibilité UX`, `Figma AI`, `user interface`, ...
+
+## 2. Sélection articles  
+Je lis les **articles, posts, vidéos** qui me semblent les meilleurs selon :  
+- Date récente (2025-2026)  
+- Sources fiables (SmashingMag, Nielsen, Amiltone, Silkwires)  
+- Pertinence par rapport à mes objectifs d'apprentissage en UX/UI
+- Applicabilité pratique des concepts présentés
+
+## 3. Résumés LLM et pratique
+
+**3.1 Articles**  
+1. Je lis l'article  
+2. Demande à Claude/ChatGPT : 
+>`"Résume cet article UX/UI en 4 lignes max pour ma veille technologique."`  
+3. Je lis le résumé LLM + relis en travers l'article original  
+4. Je fais mon propre résumé  
+5. Demande à LLM : 
+>`"Améliore ce résumé et mets-le en fichier markdown."`
+
+**3.2 Vidéos → Figma direct**  
+YouTube, Shorts, TikTok → **je les enregistre** → **je reproduis les tips dans Figma** :  
+- Micro-interactions → prototypes testables  
+- Figma AI → wireframes importés  
+- Accessibilité → plugins WCAG  
+
+## 4. Markdown final
+Je récupère les fichiers markdown du **3.1.5** (résumé LLM amélioré), les relis et les déploie directement sur mon site via le dossier `_blog/[nom-article]`
+
+**Processus** :
+1. Exporter résumé markdown depuis Claude/ChatGPT/...
+2. Copier vers `content/blog/[nom-article].md`
+3. Commit → déploiement automatique du site
+
+## Exemple workflow (60 minutes)
+
+| Étape | Action | Temps |
+|-------|--------|-------|
+| **Recherche** | Mots-clés sur Google (`UX/UI 2026`, `Figma AI`, etc.) | **5 minutes** |
+| **Lecture** | 3 meilleurs articles sélectionnés | **20 minutes** |
+| **LLM** | 1. Résumé LLM → 2. Mon résumé → 3. LLM amélioration | **5 minutes** |
+| **Vidéo Figma** | Tips YouTube/Shorts reproduits dans Figma | **25 minutes** |
+| **Markdown** | Résumé final → `_blog/[nom-article]` | **5 minutes** |
+
+**Total** : **60 minutes** → 1 article complet + 3 prototypes Figma
+
+
+
+## Pourquoi ça marche ?
+
+✅ **Double validation** : LLM + mon analyse = qualité garantie, pas de biais IA  
+✅ **Pratique immédiate** : Vidéos → Figma en 25min = prototypes portfolio-ready  
+✅ **Adapté formation** : 60min/jour = 4 articles/semaine + skills Figma boostés  
+✅ **100% actionable** : Chaque tip testé = compétences UX/UI directement applicables 

@@ -1,34 +1,53 @@
-+++
-title = "UX/UI 2025-2026 : Vers des interfaces émotionnelles et prédictives"
-date = "2025-01-21"
-author = "Kevin Dos Santos"
-tags = ["Futur", "IA", "Design Organique", "Émotion"]
-categories = ["Veille Technologique"]
-description = "Analyse des mutations majeures : entre design Bento et interfaces capables de ressentir les émotions des utilisateurs."
-draft = false
-+++
-
-Pour clore mes résumés de veille, j'ai exploré les prédictions d'Amiltone pour les deux prochaines années. Le design digital ne se contente plus d'être fonctionnel ; il devient adaptatif et sensoriel.
-
-## 1. La dualité visuelle : Organique vs Bento
-En 2025, deux philosophies de design s'opposent et se complètent :
-* **Design Organique** : Inspiré de la nature, il utilise des formes fluides et des animations douces pour créer un lien émotionnel fort avec l'utilisateur.
-* **Bento Design** : Une approche modulaire inspirée des boîtes japonaises, structurant l'information dans des blocs clairs et ordonnés, idéale pour les dashboards complexes.
-
-## 2. L'IA et l'Hyper-personnalisation
-L'intelligence artificielle transforme les interfaces en véritables compagnons. En 2026, l'IA ne se contentera plus de réagir ; elle **anticipera les besoins** en ajustant les couleurs, les parcours et les contenus en temps réel selon l'historique et l'humeur de l'utilisateur.
-
-## 3. Interfaces émotionnelles et biométrie
-Une prédiction fascinante est l'émergence des **interfaces sensibles**. Grâce à l'analyse de signaux contextuels (reconnaissance faciale, vocale), le design pourra s'adapter à l'état émotionnel de l'utilisateur, proposant par exemple des couleurs apaisantes en cas de stress détecté. Parallèlement, la biométrie remplacera progressivement les mots de passe pour une sécurité plus fluide.
-
-## 4. La continuité multi-appareils (Cross-device)
-La fluidité sans friction devient la norme. Commencer une action sur un smartphone, la poursuivre sur une montre connectée et la terminer sur un ordinateur portable se fera sans aucune interruption grâce à une synchronisation cloud intelligente.
-
-## 5. Sobriété et Écodesign
-Le minimalisme évolue vers l'**éco-conception**. L'objectif est de réduire l'empreinte environnementale via des designs épurés et des images optimisées, tout en améliorant la performance web (poids de page réduit).
-
+---
+title: "Tendances UX/UI 2026 : Zéro UI, IA, accessibilité et design durable"
+date: "2026-01-22"
+tags: ["UX", "UI", "tendances-2026", "IA", "zero-ui", "accessibilité", "ecodesign", "neurodiversité"]
 ---
 
-**Source de veille :** [Amiltone - Tendances et prédictions UX/UI](https://www.amiltone.com/tech-place/ux-ui-tendances-predictions)
 
-**Lien avec mon domaine :** Ces prédictions confirment l'importance de l'interdisciplinarité entre design, psychologie et technologie que nous étudions à la HEIG-VD.
+## Source
+ [Tendances UX/UI 2026 - Silkwires](https://silkwires.com/blog/tendances-ux-ui-2026-ia-zero-ui-accessibilite-et-design-durable-a-lhonneur-3945.html)
+
+## Contexte de l’article
+
+L’article explore les **10 mégatendances UX/UI 2026**, centrées sur des interfaces invisibles (Zéro UI), IA intégrée, design inclusif pour neurodiversité, éco-responsable et immersif via 3D/RA. 
+Ces évolutions visent une expérience plus humaine, durable et proactive, avec des outils IA accélérant les workflows et des stats prouvant gains en productivité et inclusion. 
+
+## Tendances phares 2026
+
+### Zéro UI et interactions naturelles
+
+- Interfaces sans écran visible via commandes vocales, gestes et détection sensorielle, anticipant les besoins pour une fluidité maximale. 
+- Nécessite refonte des parcours centrés sur l’anticipation plutôt que navigation traditionnelle. 
+
+### Accessibilité et neurodiversité
+
+- Au-delà des standards, intégration pour TDAH, autisme, dyslexie via lisibilité, stimuli adaptés et conformité légale croissante. 
+- 85% des utilisateurs préfèrent ces interfaces inclusives. 
+### IA comme co-designer
+
+- Outils comme Figma AI, Uizard ou Moonchild automatisent wireframes, mockups et collaboration, boostant productivité (+70% adoption en entreprises). 
+- Gains de -40% temps de livraison via automatisation. 
+
+### Design durable et éco-conscient
+
+- Optimisation poids, animations légères, éco-chargement pour réduire impact environnemental et améliorer performance (-25% consommation énergétique). 
+
+## Styles visuels et interactions avancées
+
+| Tendance | Description | Exemples |
+|----------|-------------|----------|
+| Anti-design maîtrisé | Typographies disruptives, couleurs vives, asymétrie pour identité forte sans sacrifier accessibilité.  | Stratégies virales/conversion |
+| Typographies XXL | Polices larges/contrastées pour lecture rapide et réduction fatigue cognitive.  | Parcours instinctifs |
+| 3D/Skeuomorphisme/RA | Effets profondeur, ombres douces, liquid glass pour immersion floue entre physique/digital.  | Marques immersives |
+| Micro-interactions narratives | Animations, sons subtils rythmant scrolling pour engagement storytelling. | Contenus fluides |
+
+## Outils et études clés
+
+- **Outils leaders** : Figma AI (prototypage), Uizard (wireframing IA), Moonchild.ai (prompts mockups), Axure/Miro (mapping), Penpot (open-source). 
+- **Études** : +70% IA en workflows, 85% préférence neurodiversité, -40% temps livraison, -25% énergie sites optimisés. 
+
+## Intérêt pour mon domaine de veille
+
+- Ces tendances renforcent l’alignement avec mes modules formation (Nielsen heuristics, user-centered design, accessibilité), surtout IA/Zero UI pour projets réels comme CineQuote (interfaces adaptatives). 
+- Pertinent pour explorer ROI écodesign et neurodiversité dans analyses Gen Z/marketing digital, avec outils comme Figma AI boostant mes prototypes. 
