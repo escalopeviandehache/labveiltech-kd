@@ -29,8 +29,8 @@ Mon travail de veille porte sur la **Conception d’expériences et d’interfac
 
 ### Le lien avec le domaine : mon ikigai
 
-[![Ikigai](/images/Ikigai-kd.png)](/images/Ikigai-kd.png)
-   
+[![Ikigai](../../public/images/Ikigai-kd.png)](../../public/images/Ikigai-kd.png)
+
 <div style="margin-top: 10px;">
 <a>
         <i class="fas fa-external-link-alt"></i> Ouvrir mon ikigai dans un nouvel onglet

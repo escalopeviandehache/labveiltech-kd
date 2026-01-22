@@ -8,7 +8,7 @@
           <div class="about-alt-profile-card">
             {{ with .Site.Params.hero.avatar }}
               <div class="about-alt-avatar">
-                <img src="/public/icons/favicon.png" alt="Kevin Dos Santos" />
+                <img src="{{ "/icons/favicon.png" | relURL }}" alt="Kevin Dos Santos" />
               </div>
             {{ else }}
               <div class="about-alt-avatar-placeholder">
