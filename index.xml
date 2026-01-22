@@ -1,62 +1,329 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LabVeilTech- KD</title><link>https://escalopeviandehache.github.io/labveiltech-kd/</link><description>Recent content on LabVeilTech- KD</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://escalopeviandehache.github.io/labveiltech-kd/index.xml" rel="self" type="application/rss+xml"/><item><title>Dans les coulisses de ma veille : Mon système d'écoute</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/systeme-ecoute-article/</link><pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/systeme-ecoute-article/</guid><description>&lt;p&gt;Pour répondre aux exigences de mon cours à la HEIG-VD, j&amp;rsquo;ai mis en place un écosystème numérique me permettant de surveiller les évolutions de l&amp;rsquo;UX/UI Design sans être submergé par le &amp;ldquo;bruit&amp;rdquo; numérique. Voici comment j&amp;rsquo;ai structuré mon système d&amp;rsquo;écoute.&lt;/p&gt;
-&lt;h2 id="1-la-stratégie-de-capture-sources"&gt;
- &lt;a href="#1-la-strat%c3%a9gie-de-capture-sources" class="md-heading-anchor"&gt;
- 1. La stratégie de capture (Sources)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LabVeilTech- KD</title><link>https://escalopeviandehache.github.io/labveiltech-kd/</link><description>Recent content on LabVeilTech- KD</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://escalopeviandehache.github.io/labveiltech-kd/index.xml" rel="self" type="application/rss+xml"/><item><title>Fiche métier Responsable UX/UI : responsabilités, compétences et perspectives</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/2-article/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/2-article/</guid><description>&lt;h2 id="source"&gt;
+ &lt;a href="#source" class="md-heading-anchor"&gt;
+ Source
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;Ma veille repose sur une sélection rigoureuse de sources diversifiées pour couvrir mes 5 taxonomies :&lt;/p&gt;
+&lt;p&gt;&lt;a
+ href="https://www.prepeers.co/metiers/numerique-digital-informatique-programmation/informatique-electronique-numerique/responsable-ux-ui"
+ target="_blank" rel="noopener"
+ class="md-link"
+&gt;
+ Responsable UX/UI - Prepeers
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;h2 id="contexte-de-larticle"&gt;
+ &lt;a href="#contexte-de-larticle" class="md-heading-anchor"&gt;
+ Contexte de l’article
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;La fiche métier décrit le &lt;strong&gt;Responsable UX/UI&lt;/strong&gt; comme un expert clé dans la création d’expériences utilisateur intuitives et interfaces esthétiques, en collaboration avec des équipes multidisciplinaires pour répondre aux besoins utilisateurs et objectifs business.&lt;br&gt;
+Ce rôle allie créativité, ergonomie et technique dans un secteur numérique en forte croissance, avec un focus sur l’innovation et l’impact direct sur la satisfaction client.&lt;/p&gt;</description></item><item><title>Mon système d'écoute veille UX/UI : comment je tracke les tendances 2025-2026</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/systeme-ecoute-article/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/systeme-ecoute-article/</guid><description>&lt;h2 id="mon-process-simple-5-étapes"&gt;
+ &lt;a href="#mon-process-simple-5-%c3%a9tapes" class="md-heading-anchor"&gt;
+ Mon process simple (5 étapes)
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;h2 id="1-recherche-mots-clés"&gt;
+ &lt;a href="#1-recherche-mots-cl%c3%a9s" class="md-heading-anchor"&gt;
+ 1. Recherche mots-clés
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;J&amp;rsquo;effectue plusieurs recherches avec des mots-clés de mon domaine &lt;strong&gt;Designer UX/UI&lt;/strong&gt; :&lt;br&gt;
+&lt;code&gt;tendances UX/UI 2026&lt;/code&gt;, &lt;code&gt;UX/UI&lt;/code&gt;, &lt;code&gt;Zero UI&lt;/code&gt;, &lt;code&gt;accessibilité UX&lt;/code&gt;, &lt;code&gt;Figma AI&lt;/code&gt;, &lt;code&gt;user interface&lt;/code&gt;, &amp;hellip;&lt;/p&gt;
+&lt;h2 id="2-sélection-articles"&gt;
+ &lt;a href="#2-s%c3%a9lection-articles" class="md-heading-anchor"&gt;
+ 2. Sélection articles
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Je lis les &lt;strong&gt;articles, posts, vidéos&lt;/strong&gt; qui me semblent les meilleurs selon :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Blogs d&amp;rsquo;Agences Spécialisées&lt;/strong&gt; : Suivi de &lt;em&gt;Ramotion&lt;/em&gt;, &lt;em&gt;Amiltone&lt;/em&gt; et &lt;em&gt;Silkwires&lt;/em&gt; pour les études de cas concrètes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plateformes de Design&lt;/strong&gt; : &lt;em&gt;Figma Blog&lt;/em&gt; et &lt;em&gt;Medium (UX Collective)&lt;/em&gt; pour les aspects techniques et les Design Systems.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Newsletters&lt;/strong&gt; : Inscription à &lt;em&gt;UX Design Weekly&lt;/em&gt; pour recevoir une synthèse hebdomadaire des meilleures ressources mondiales.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Réseaux Sociaux Professionnels&lt;/strong&gt; : LinkedIn pour suivre des leaders d&amp;rsquo;opinion et découvrir les tendances de recrutement.&lt;/li&gt;
+&lt;li&gt;Date récente (2025-2026)&lt;/li&gt;
+&lt;li&gt;Sources fiables (SmashingMag, Nielsen, Amiltone, Silkwires)&lt;/li&gt;
+&lt;li&gt;Pertinence par rapport à mes objectifs d&amp;rsquo;apprentissage en UX/UI&lt;/li&gt;
+&lt;li&gt;Applicabilité pratique des concepts présentés&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="2-les-outils-de-gestion-le-pipe"&gt;
- &lt;a href="#2-les-outils-de-gestion-le-pipe" class="md-heading-anchor"&gt;
- 2. Les outils de gestion (Le &amp;ldquo;Pipe&amp;rdquo;)
+&lt;h2 id="3-résumés-llm-et-pratique"&gt;
+ &lt;a href="#3-r%c3%a9sum%c3%a9s-llm-et-pratique" class="md-heading-anchor"&gt;
+ 3. Résumés LLM et pratique
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;Pour centraliser ces flux, j&amp;rsquo;utilise un workflow automatisé :&lt;/p&gt;</description></item><item><title>Focus Métier : Le rôle de Responsable UX/UI</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/2-article/</link><pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/2-article/</guid><description>&lt;p&gt;Dans le cadre de ma veille sur l&amp;rsquo;évolution du secteur numérique, il est essentiel de comprendre vers quels rôles ma formation en &lt;strong&gt;Ingénierie des Médias&lt;/strong&gt; peut me mener. Le poste de &lt;strong&gt;Responsable UX/UI&lt;/strong&gt; est une évolution naturelle pour un designer souhaitant allier stratégie et création.&lt;/p&gt;
-&lt;h2 id="description-du-métier"&gt;
- &lt;a href="#description-du-m%c3%a9tier" class="md-heading-anchor"&gt;
- Description du métier
+&lt;p&gt;&lt;strong&gt;3.1 Articles&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Tendances UX‑UI 2025‑2026 : vers des interfaces intelligentes, immersives et responsables</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/1-article/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/1-article/</guid><description>&lt;h2 id="source"&gt;
+ &lt;a href="#source" class="md-heading-anchor"&gt;
+ Source
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;Le Responsable UX/UI est le garant de l&amp;rsquo;expérience utilisateur et de la cohérence visuelle des produits numériques. Son rôle est de concevoir des interfaces qui sont à la fois esthétiquement plaisantes et fonctionnelles, tout en répondant aux objectifs commerciaux de l&amp;rsquo;entreprise.&lt;/p&gt;</description></item><item><title>L'IA et les LLM : Nouveaux copilotes du designer UX</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/llm-article/</link><pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/llm-article/</guid><description>&lt;p&gt;Dans la continuité de ma veille sur les outils émergents, j&amp;rsquo;ai exploré comment les LLM (Large Language Models) redéfinissent notre manière de concevoir des produits numériques. Loin de remplacer le designer, l&amp;rsquo;IA s&amp;rsquo;impose comme un &amp;ldquo;co-designer&amp;rdquo; stratégique.&lt;/p&gt;
-&lt;h2 id="1-une-révolution-dans-lux-research"&gt;
- &lt;a href="#1-une-r%c3%a9volution-dans-lux-research" class="md-heading-anchor"&gt;
- 1. Une révolution dans l&amp;rsquo;UX Research
+&lt;p&gt;&lt;a
+ href="https://www.amiltone.com/tech-place/ux-ui-tendances-predictions"
+ target="_blank" rel="noopener"
+ class="md-link"
+&gt;
+ UX-UI 2025-2026 - Amiltone Tech Place
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;h2 id="contexte-de-larticle"&gt;
+ &lt;a href="#contexte-de-larticle" class="md-heading-anchor"&gt;
+ Contexte de l’article
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;L&amp;rsquo;un des apports les plus puissants des LLM réside dans l&amp;rsquo;analyse de données complexes. Ils permettent de :&lt;/p&gt;
+&lt;p&gt;Le design &lt;strong&gt;UX‑UI&lt;/strong&gt; est présenté comme un levier majeur d’innovation numérique, en adaptation permanente aux usages, aux technologies et aux attentes d’utilisateurs de plus en plus exigeants.
+L’article décrit les grandes tendances 2025 et propose des prédictions 2026, en insistant sur des interfaces plus intelligentes, immersives, inclusives et écoconçues.&lt;/p&gt;
+&lt;h2 id="principales-tendances-uxui-2025"&gt;
+ &lt;a href="#principales-tendances-uxui-2025" class="md-heading-anchor"&gt;
+ Principales tendances UX‑UI 2025
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="3d-et-réalité-augmentée"&gt;
+ &lt;a href="#3d-et-r%c3%a9alit%c3%a9-augment%c3%a9e" class="md-heading-anchor"&gt;
+ 3D et réalité augmentée
+ &lt;/a&gt;
+&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Automatiser la collecte&lt;/strong&gt; et le nettoyage de données utilisateurs.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Extraire des insights&lt;/strong&gt; à partir de volumes massifs de feedbacks textuels.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Générer des scripts de tests d&amp;rsquo;utilisabilité&lt;/strong&gt; et catégoriser les points de friction (pain points) qui pourraient échapper à l&amp;rsquo;œil humain.&lt;/li&gt;
+&lt;li&gt;Les marques utilisent la 3D et la réalité augmentée pour projeter un canapé dans un salon ou essayer des lunettes à distance, ce qui rassure et accélère la décision d’achat.&lt;/li&gt;
+&lt;li&gt;Cette approche renforce la dimension ludique de l’expérience, proche d’un jeu vidéo, et augmente la capacité de l’utilisateur à se projeter dans le produit.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Cette capacité accélère drastiquement le cycle de recherche, permettant de passer plus de temps sur la stratégie et moins sur le traitement manuel des données.&lt;/p&gt;</description></item><item><title>Tendances UX/UI 2026 : IA, Accessibilité et Zéro UI</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/1-article/</link><pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/1-article/</guid><description>&lt;p&gt;Pour ce deuxième article de veille, je me suis penché sur les perspectives du design pour 2026. Le secteur opère une mutation vers des expériences plus humaines, durables et intelligentes.&lt;/p&gt;
-&lt;h2 id="1-le-zéro-ui--lère-des-interfaces-invisibles"&gt;
- &lt;a href="#1-le-z%c3%a9ro-ui--l%c3%a8re-des-interfaces-invisibles" class="md-heading-anchor"&gt;
- 1. Le Zéro UI : L&amp;rsquo;ère des interfaces invisibles
+&lt;h3 id="design-paramétrique-et-formes-fluides"&gt;
+ &lt;a href="#design-param%c3%a9trique-et-formes-fluides" class="md-heading-anchor"&gt;
+ Design paramétrique et formes fluides
  &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;L&amp;rsquo;une des révolutions majeures de 2026 est le &lt;strong&gt;Zéro UI&lt;/strong&gt;. Les écrans graphiques traditionnels s&amp;rsquo;effacent au profit de commandes vocales, gestuelles et de systèmes proactifs capables d&amp;rsquo;anticiper les besoins utilisateurs. Cette approche minimaliste demande de repenser totalement les parcours pour les rendre plus naturels.&lt;/p&gt;</description></item><item><title>UX/UI 2025-2026 : Vers des interfaces émotionnelles et prédictives</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/3-article/</link><pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/3-article/</guid><description>&lt;p&gt;Pour clore mes résumés de veille, j&amp;rsquo;ai exploré les prédictions d&amp;rsquo;Amiltone pour les deux prochaines années. Le design digital ne se contente plus d&amp;rsquo;être fonctionnel ; il devient adaptatif et sensoriel.&lt;/p&gt;
-&lt;h2 id="1-la-dualité-visuelle--organique-vs-bento"&gt;
- &lt;a href="#1-la-dualit%c3%a9-visuelle--organique-vs-bento" class="md-heading-anchor"&gt;
- 1. La dualité visuelle : Organique vs Bento
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;En 2025, deux philosophies de design s&amp;rsquo;opposent et se complètent :&lt;/p&gt;
+&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Design Organique&lt;/strong&gt; : Inspiré de la nature, il utilise des formes fluides et des animations douces pour créer un lien émotionnel fort avec l&amp;rsquo;utilisateur.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bento Design&lt;/strong&gt; : Une approche modulaire inspirée des boîtes japonaises, structurant l&amp;rsquo;information dans des blocs clairs et ordonnés, idéale pour les dashboards complexes.&lt;/li&gt;
+&lt;li&gt;Les interfaces s’éloignent des grilles rigides au profit de formes organiques, courbes et motifs complexes, parfois animés en fonction du mouvement de la souris.&lt;/li&gt;
+&lt;li&gt;Ce design apporte une impression de légèreté et de modernité, tout en renforçant l’interactivité et la mémorisation visuelle.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="2-lia-et-lhyper-personnalisation"&gt;
- &lt;a href="#2-lia-et-lhyper-personnalisation" class="md-heading-anchor"&gt;
- 2. L&amp;rsquo;IA et l&amp;rsquo;Hyper-personnalisation
+&lt;h3 id="organique-vs-bento-design"&gt;
+ &lt;a href="#organique-vs-bento-design" class="md-heading-anchor"&gt;
+ Organique vs Bento design
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Le design organique s’inspire de la nature, avec dégradés subtils, animations douces et éléments qui semblent évoluer naturellement pour créer un lien émotionnel fort.&lt;/li&gt;
+&lt;li&gt;Le Bento design, inspiré des boîtes bento japonaises, structure l’interface en blocs autonomes, particulièrement adapté aux dashboards, e‑commerce ou applications riches en informations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="personnalisation-par-lia-et-gamification"&gt;
+ &lt;a href="#personnalisation-par-lia-et-gamification" class="md-heading-anchor"&gt;
+ Personnalisation par l’IA et gamification
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;L’intelligence artificielle devient un assistant personnel qui anticipe les besoins, comme un tableau de bord réorganisant automatiquement les tâches prioritaires selon le rythme de travail.&lt;/li&gt;
+&lt;li&gt;La gamification (badges, défis, points) transforme l’usage en jeu et sert de levier d’engagement et de fidélisation, à l’image de Duolingo ou d’applications de fitness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="écodesign-dark-mode-et-microinteractions"&gt;
+ &lt;a href="#%c3%a9codesign-dark-mode-et-microinteractions" class="md-heading-anchor"&gt;
+ Écodesign, dark mode et micro‑interactions
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;L’écoconception encourage des interfaces sobres, avec médias optimisés et animations légères, pour réduire l’empreinte environnementale des pages web.&lt;/li&gt;
+&lt;li&gt;Les dark modes deviennent plus aboutis, avec contrastes optimisés et bulles de messages adaptées automatiquement pour une meilleure lisibilité, tandis que les micro‑interactions deviennent plus contextuelles pour guider l’utilisateur.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="prédictions-uxui-2026"&gt;
+ &lt;a href="#pr%c3%a9dictions-uxui-2026" class="md-heading-anchor"&gt;
+ Prédictions UX‑UI 2026
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;L&amp;rsquo;intelligence artificielle transforme les interfaces en véritables compagnons. En 2026, l&amp;rsquo;IA ne se contentera plus de réagir ; elle &lt;strong&gt;anticipera les besoins&lt;/strong&gt; en ajustant les couleurs, les parcours et les contenus en temps réel selon l&amp;rsquo;historique et l&amp;rsquo;humeur de l&amp;rsquo;utilisateur.&lt;/p&gt;</description></item><item><title>Minimal Black Hugo Theme</title><link>https://escalopeviandehache.github.io/labveiltech-kd/projects/sample-project/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/projects/sample-project/</guid><description>&lt;p&gt;A comprehensive Hugo theme designed for developers, designers, and everyone in general who value simplicity, performance, and beautiful dare I say dark mode design (maybe?).&lt;/p&gt;
+&lt;h3 id="hyperpersonnalisation-et-interfaces-émotionnelles"&gt;
+ &lt;a href="#hyperpersonnalisation-et-interfaces-%c3%a9motionnelles" class="md-heading-anchor"&gt;
+ Hyper‑personnalisation et interfaces émotionnelles
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;En 2026, les interfaces ajustent en temps réel contenus, couleurs et parcours aux comportements, à l’historique et aux préférences détectées par l’IA.&lt;/li&gt;
+&lt;li&gt;Les interfaces émotionnelles adaptent couleurs et animations à l’état de l’utilisateur (stress, enthousiasme) grâce à des signaux contextuels comme l’heure, la météo ou la reconnaissance vocale.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="interfaces-vocales-gestuelles-et-zero-ui"&gt;
+ &lt;a href="#interfaces-vocales-gestuelles-et-zero-ui" class="md-heading-anchor"&gt;
+ Interfaces vocales, gestuelles et Zero UI
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;La voix s’impose pour naviguer, rechercher ou acheter, rendant l’expérience plus inclusive, notamment pour les personnes en situation de handicap.&lt;/li&gt;
+&lt;li&gt;Les gestes et capteurs contextuels ouvrent la voie au Zero UI, des expériences sans interface visible, particulièrement pertinentes pour les objets connectés et environnements immersifs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="accessibilité-proactive-sécurité-et-microinteractions-multisensorielles"&gt;
+ &lt;a href="#accessibilit%c3%a9-proactive-s%c3%a9curit%c3%a9-et-microinteractions-multisensorielles" class="md-heading-anchor"&gt;
+ Accessibilité proactive, sécurité et micro‑interactions multisensorielles
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;L’accessibilité devient native, avec personnalisation des contrastes, tailles de police, navigation au clavier et descriptions vocales automatiques, l’IA corrigeant les obstacles en temps réel.&lt;/li&gt;
+&lt;li&gt;L’authentification biométrique (empreinte, visage, voix) fluidifie la sécurité, tandis que les micro‑interactions intègrent retours haptiques et animations adaptées au profil pour rendre chaque action plus mémorable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="continuité-crossdevice"&gt;
+ &lt;a href="#continuit%c3%a9-crossdevice" class="md-heading-anchor"&gt;
+ Continuité cross‑device
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;La continuité d’expérience entre smartphone, montre connectée et ordinateur devient indispensable, permettant de commencer une action sur un appareil et de la terminer sur un autre sans friction.&lt;/li&gt;
+&lt;li&gt;Cette fluidité repose sur le cloud, des interfaces adaptatives et une synchronisation intelligente des données et états de session.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="intérêt-pour-mon-domaine-de-veille"&gt;
+ &lt;a href="#int%c3%a9r%c3%aat-pour-mon-domaine-de-veille" class="md-heading-anchor"&gt;
+ Intérêt pour mon domaine de veille
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ces tendances confirment le passage d’interfaces statiques à des expériences &lt;strong&gt;adaptatives&lt;/strong&gt;, pilotées par l’IA, qui transforment le rôle du designer en orchestrateur de systèmes plutôt que simple maquettiste.&lt;/li&gt;
+&lt;li&gt;Pour un travail de veille en UX‑UI, l’article sert de base pour explorer plus finement la combinaison de l’hyper‑personnalisation, de l’accessibilité proactive et de l’écodesign, ainsi que leurs impacts éthiques et méthodologiques sur les futurs projets.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Tendances UX/UI 2026 : Zéro UI, IA, accessibilité et design durable</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/3-article/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/3-article/</guid><description>&lt;h2 id="source"&gt;
+ &lt;a href="#source" class="md-heading-anchor"&gt;
+ Source
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a
+ href="https://silkwires.com/blog/tendances-ux-ui-2026-ia-zero-ui-accessibilite-et-design-durable-a-lhonneur-3945.html"
+ target="_blank" rel="noopener"
+ class="md-link"
+&gt;
+ Tendances UX/UI 2026 - Silkwires
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;h2 id="contexte-de-larticle"&gt;
+ &lt;a href="#contexte-de-larticle" class="md-heading-anchor"&gt;
+ Contexte de l’article
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;L’article explore les &lt;strong&gt;10 mégatendances UX/UI 2026&lt;/strong&gt;, centrées sur des interfaces invisibles (Zéro UI), IA intégrée, design inclusif pour neurodiversité, éco-responsable et immersif via 3D/RA.
+Ces évolutions visent une expérience plus humaine, durable et proactive, avec des outils IA accélérant les workflows et des stats prouvant gains en productivité et inclusion.&lt;/p&gt;
+&lt;h2 id="tendances-phares-2026"&gt;
+ &lt;a href="#tendances-phares-2026" class="md-heading-anchor"&gt;
+ Tendances phares 2026
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="zéro-ui-et-interactions-naturelles"&gt;
+ &lt;a href="#z%c3%a9ro-ui-et-interactions-naturelles" class="md-heading-anchor"&gt;
+ Zéro UI et interactions naturelles
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Interfaces sans écran visible via commandes vocales, gestes et détection sensorielle, anticipant les besoins pour une fluidité maximale.&lt;/li&gt;
+&lt;li&gt;Nécessite refonte des parcours centrés sur l’anticipation plutôt que navigation traditionnelle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="accessibilité-et-neurodiversité"&gt;
+ &lt;a href="#accessibilit%c3%a9-et-neurodiversit%c3%a9" class="md-heading-anchor"&gt;
+ Accessibilité et neurodiversité
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Au-delà des standards, intégration pour TDAH, autisme, dyslexie via lisibilité, stimuli adaptés et conformité légale croissante.&lt;/li&gt;
+&lt;li&gt;85% des utilisateurs préfèrent ces interfaces inclusives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ia-comme-co-designer"&gt;
+ &lt;a href="#ia-comme-co-designer" class="md-heading-anchor"&gt;
+ IA comme co-designer
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Outils comme Figma AI, Uizard ou Moonchild automatisent wireframes, mockups et collaboration, boostant productivité (+70% adoption en entreprises).&lt;/li&gt;
+&lt;li&gt;Gains de -40% temps de livraison via automatisation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="design-durable-et-éco-conscient"&gt;
+ &lt;a href="#design-durable-et-%c3%a9co-conscient" class="md-heading-anchor"&gt;
+ Design durable et éco-conscient
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Optimisation poids, animations légères, éco-chargement pour réduire impact environnemental et améliorer performance (-25% consommation énergétique).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="styles-visuels-et-interactions-avancées"&gt;
+ &lt;a href="#styles-visuels-et-interactions-avanc%c3%a9es" class="md-heading-anchor"&gt;
+ Styles visuels et interactions avancées
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Tendance&lt;/th&gt;
+ &lt;th&gt;Description&lt;/th&gt;
+ &lt;th&gt;Exemples&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Anti-design maîtrisé&lt;/td&gt;
+ &lt;td&gt;Typographies disruptives, couleurs vives, asymétrie pour identité forte sans sacrifier accessibilité.&lt;/td&gt;
+ &lt;td&gt;Stratégies virales/conversion&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Typographies XXL&lt;/td&gt;
+ &lt;td&gt;Polices larges/contrastées pour lecture rapide et réduction fatigue cognitive.&lt;/td&gt;
+ &lt;td&gt;Parcours instinctifs&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;3D/Skeuomorphisme/RA&lt;/td&gt;
+ &lt;td&gt;Effets profondeur, ombres douces, liquid glass pour immersion floue entre physique/digital.&lt;/td&gt;
+ &lt;td&gt;Marques immersives&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Micro-interactions narratives&lt;/td&gt;
+ &lt;td&gt;Animations, sons subtils rythmant scrolling pour engagement storytelling.&lt;/td&gt;
+ &lt;td&gt;Contenus fluides&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="outils-et-études-clés"&gt;
+ &lt;a href="#outils-et-%c3%a9tudes-cl%c3%a9s" class="md-heading-anchor"&gt;
+ Outils et études clés
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Outils leaders&lt;/strong&gt; : Figma AI (prototypage), Uizard (wireframing IA), Moonchild.ai (prompts mockups), Axure/Miro (mapping), Penpot (open-source).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Études&lt;/strong&gt; : +70% IA en workflows, 85% préférence neurodiversité, -40% temps livraison, -25% énergie sites optimisés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="intérêt-pour-mon-domaine-de-veille"&gt;
+ &lt;a href="#int%c3%a9r%c3%aat-pour-mon-domaine-de-veille" class="md-heading-anchor"&gt;
+ Intérêt pour mon domaine de veille
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ces tendances renforcent l’alignement avec mes modules formation (Nielsen heuristics, user-centered design, accessibilité), surtout IA/Zero UI pour projets réels comme CineQuote (interfaces adaptatives).&lt;/li&gt;
+&lt;li&gt;Pertinent pour explorer ROI écodesign et neurodiversité dans analyses Gen Z/marketing digital, avec outils comme Figma AI boostant mes prototypes.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Utiliser les LLM pour se former en UX/UI Design : guide pratique</title><link>https://escalopeviandehache.github.io/labveiltech-kd/blog/llm-article/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/blog/llm-article/</guid><description>&lt;h2 id="sources"&gt;
+ &lt;a href="#sources" class="md-heading-anchor"&gt;
+ Sources
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+ href="https://www.sparks-formation.com/formation-intelligence-artificielle-ia-ux-design"
+ target="_blank" rel="noopener"
+ class="md-link"
+&gt;
+ Sparks Formation IA &amp;amp; UX Design
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a
+ href="https://fr.tuto.com/blog/2025/10/25-prompts-chatgpt-ux-product-designers.htm"
+ target="_blank" rel="noopener"
+ class="md-link"
+&gt;
+ 25 prompts ChatGPT UX - Tuto.com
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a
+ href="https://www.ironhack.com/fr/blog/les-requetes-que-les-ux-ui-designers-peuvent-adresser-a-chatgpt"
+ target="_blank" rel="noopener"
+ class="md-link"
+&gt;
+ Requêtes ChatGPT UX/UI - Ironhack
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a
+ href="https://voltee.fr/chatgpt-4-5-vs-claude-3-7-le-duel-des-ia-qui-revolutionne-le-developpement"
+ target="_blank" rel="noopener"
+ class="md-link"
+&gt;
+ ChatGPT vs Claude - Voltee
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="contexte-et-potentiel-des-llm-en-formation-uxui"&gt;
+ &lt;a href="#contexte-et-potentiel-des-llm-en-formation-uxui" class="md-heading-anchor"&gt;
+ Contexte et potentiel des LLM en formation UX/UI
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Les &lt;strong&gt;modèles de langage large (LLM)&lt;/strong&gt; comme ChatGPT, Claude ou Gemini révolutionnent l’apprentissage UX/UI en offrant un tuteur 24/7 personnalisé, accélérant la maîtrise des principes (Nielsen, Design Thinking) et outils (Figma, prototypes).&lt;br&gt;
+Adaptés à un étudiant en cours intensifs comme toi, ils boostent productivité x2 en formation, aidant à personas, wireframes et analyses sans étude ethnographique complète.&lt;/p&gt;</description></item><item><title>Minimal Black Hugo Theme</title><link>https://escalopeviandehache.github.io/labveiltech-kd/projects/sample-project/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://escalopeviandehache.github.io/labveiltech-kd/projects/sample-project/</guid><description>&lt;p&gt;A comprehensive Hugo theme designed for developers, designers, and everyone in general who value simplicity, performance, and beautiful dare I say dark mode design (maybe?).&lt;/p&gt;
 &lt;h2 id="overview"&gt;
  &lt;a href="#overview" class="md-heading-anchor"&gt;
  Overview
