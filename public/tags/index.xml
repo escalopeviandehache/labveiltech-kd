@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on LabVeilTech- KD</title>
+    <title>Tags on LabVeilTech - KD</title>
     <link>http://localhost:1313/labveiltech-kd/tags/</link>
-    <description>Recent content in Tags on LabVeilTech- KD</description>
+    <description>Recent content in Tags on LabVeilTech - KD</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
@@ -181,69 +181,6 @@
       <link>http://localhost:1313/labveiltech-kd/tags/web-development/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/labveiltech-kd/tags/web-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Carrière</title>
-      <link>http://localhost:1313/labveiltech-kd/tags/carri%C3%A8re/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveiltech-kd/tags/carri%C3%A8re/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Design Organique</title>
-      <link>http://localhost:1313/labveiltech-kd/tags/design-organique/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveiltech-kd/tags/design-organique/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Émotion</title>
-      <link>http://localhost:1313/labveiltech-kd/tags/%C3%A9motion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveiltech-kd/tags/%C3%A9motion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Futur</title>
-      <link>http://localhost:1313/labveiltech-kd/tags/futur/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveiltech-kd/tags/futur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Management</title>
-      <link>http://localhost:1313/labveiltech-kd/tags/management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveiltech-kd/tags/management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Outils</title>
-      <link>http://localhost:1313/labveiltech-kd/tags/outils/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveiltech-kd/tags/outils/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Productivité</title>
-      <link>http://localhost:1313/labveiltech-kd/tags/productivit%C3%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveiltech-kd/tags/productivit%C3%A9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>RSS</title>
-      <link>http://localhost:1313/labveiltech-kd/tags/rss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveiltech-kd/tags/rss/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>UX Research</title>
-      <link>http://localhost:1313/labveiltech-kd/tags/ux-research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveiltech-kd/tags/ux-research/</guid>
       <description></description>
     </item>
   </channel>

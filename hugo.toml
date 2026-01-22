@@ -1,6 +1,6 @@
 baseURL = 'https://escalopeviandehache.github.io/labveiltech-kd/'
 languageCode = 'en-us'
-title = 'LabVeilTech- KD'
+title = 'LabVeilTech - KD'
 theme = "minimal-black"
 
 # Enable search index generation and web app manifest
