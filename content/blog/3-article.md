@@ -30,4 +30,5 @@ Le minimalisme évolue vers l'**éco-conception**. L'objectif est de réduire l'
 ---
 
 **Source de veille :** [Amiltone - Tendances et prédictions UX/UI](https://www.amiltone.com/tech-place/ux-ui-tendances-predictions)
+
 **Lien avec mon domaine :** Ces prédictions confirment l'importance de l'interdisciplinarité entre design, psychologie et technologie que nous étudions à la HEIG-VD.
