@@ -151,7 +151,7 @@ theme = "minimal-black"
     role = "Étudiant en ingénierie des médias"
     # summary = "You can write your summary to be displayed here."
     # avatar = "images/avatar.jpg"  # Optional: 400x400px recommended
-    location = "Préverenges, Suisse"
+    location = "Lausanne, Suisse"
     # focus = "Currently focused on Hugo themes & developer experience."
     available = true
     availableLabel = "Disponible"
@@ -164,10 +164,7 @@ theme = "minimal-black"
       "Réfléchissant à l'équilibre parfait entre esthétique minimaliste et utilité concrète dans nos produits numériques quotidiens."
     ]
 
-    [params.hero.primary]
-      label = "Voir mon blog"
-      href = "/blog/"
-
+   
   # Icon Libraries
   [params.icons]
     useFontAwesome = true

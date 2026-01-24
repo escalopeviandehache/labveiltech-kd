@@ -49,5 +49,5 @@ Ces évolutions visent une expérience plus humaine, durable et proactive, avec 
 
 ## Intérêt pour mon domaine de veille
 
-- Ces tendances renforcent l’alignement avec mes modules formation (Nielsen heuristics, user-centered design, accessibilité), surtout IA/Zero UI pour projets réels comme CineQuote (interfaces adaptatives). 
+- Ces tendances renforcent l’alignement avec mes modules formation (Nielsen heuristics, user-centered design, accessibilité), surtout IA/Zero UI pour projets réels (interfaces adaptatives). 
 - Pertinent pour explorer ROI écodesign et neurodiversité dans analyses Gen Z/marketing digital, avec outils comme Figma AI boostant mes prototypes. 
